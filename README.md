@@ -232,7 +232,7 @@ For further investigation of the disentanglement property, we present the result
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="2" style="text-align: center; font-style: italic;">Dimension 6 held constant while the others vary</td>
+            <td colspan="2" style="text-align: center; font-style: italic;">Dimension 6 varied while the others held constant</td>
         </tr>
     </tfoot>
 </table>
